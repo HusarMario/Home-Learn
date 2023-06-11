@@ -1,0 +1,2 @@
+Toto je text ktory ocakvam na outpute.
+Toto je druhy riadok s viac komplexnejsim slovom.

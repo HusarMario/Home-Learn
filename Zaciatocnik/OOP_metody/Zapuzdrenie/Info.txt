@@ -1,0 +1,1 @@
+Zablokvanie pristupu na menenie hodnot metody, len určite časti

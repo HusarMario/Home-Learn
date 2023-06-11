@@ -1,0 +1,10 @@
+MY PHONE NUMBERS
+7
+Meno; Telefon; Mobil; Email
+Mario Husar; 048/4569231; 0902090132; husar.mario@gmail.com
+Peter Hranka; 032/1651633; 0902132456; asdgasdg@nieco.sk
+Peter Bujdovic; 032/1651633; 0902132456; asdgasdg@nieco.sk
+Branislav Beňo; ; 0909111159; 
+Mario; 032/1234567; 0912345698; sdaf@gm.sk
+Mario; 032/1234567; 0902090132; asdfa@gmail.com
+Mario; 032/4646547; 0909090090; asdfasd@ppp.sk
